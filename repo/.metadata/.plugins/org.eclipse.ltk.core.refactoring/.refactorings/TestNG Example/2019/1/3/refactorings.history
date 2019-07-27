@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Listner Example/src/listner.example&apos;&#x0D;&#x0A;- Original project: &apos;TestNG Example&apos;&#x0D;&#x0A;- Destination element: &apos;Listner Example/src/listner.example&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     selenium.with.testng.WebDriverCollectionMethod.java&#x0D;&#x0A;     selenium.with.testng.SeleniumWithTestNG.java" description="Copy compilation units" destination="=Listner Example/src&lt;listner.example" element1="/src&lt;selenium.with.testng{WebDriverCollectionMethod.java" element2="/src&lt;selenium.with.testng{SeleniumWithTestNG.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1547725379540" units="2" version="1.0"/>
+</session>

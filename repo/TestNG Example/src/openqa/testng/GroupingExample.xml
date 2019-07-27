@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+  <groups> 
+	    <run> 
+		<include name="Car" /> 	
+		<!-- <include name="Sedan Car" /> 
+		<include name="Scooter" /> --> 	 
+	    </run> 
+	</groups>
+    <classes>
+      <class name="openqa.testng.example.GroupingExample"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

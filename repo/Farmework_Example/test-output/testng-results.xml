@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60271" started-at="2019-02-10T06:19:16Z" finished-at="2019-02-10T06:20:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33877" started-at="2019-02-10T06:19:16Z" finished-at="2019-02-10T06:19:50Z">
+      <class name="testng.example.FrameworkTest">
+        <test-method status="PASS" signature="environmentSetup()[pri:0, instance:testng.example.FrameworkTest@4b9e13df]" name="environmentSetup" is-config="true" duration-ms="13056" started-at="2019-02-10T06:19:16Z" finished-at="2019-02-10T06:19:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- environmentSetup -->
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:testng.example.FrameworkTest@4b9e13df]" name="openUrl" is-config="true" duration-ms="11931" started-at="2019-02-10T06:19:29Z" finished-at="2019-02-10T06:19:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:testng.example.FrameworkTest@4b9e13df]" name="loginTest" duration-ms="5686" started-at="2019-02-10T06:19:41Z" finished-at="2019-02-10T06:19:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testng.example.FrameworkTest@4b9e13df]" name="afterMethod" is-config="true" duration-ms="21" started-at="2019-02-10T06:19:46Z" finished-at="2019-02-10T06:19:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testng.example.FrameworkTest@4b9e13df]" name="afterTest" is-config="true" duration-ms="3137" started-at="2019-02-10T06:19:46Z" finished-at="2019-02-10T06:19:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testng.example.FrameworkTest -->
+    </test> <!-- Test -->
+    <test name="Test2" duration-ms="26175" started-at="2019-02-10T06:19:50Z" finished-at="2019-02-10T06:20:16Z">
+      <class name="testng.example.Framework2Test">
+        <test-method status="PASS" signature="environmentSetup()[pri:0, instance:testng.example.Framework2Test@6093dd95]" name="environmentSetup" is-config="true" duration-ms="7601" started-at="2019-02-10T06:19:50Z" finished-at="2019-02-10T06:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- environmentSetup -->
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:testng.example.Framework2Test@6093dd95]" name="openUrl" is-config="true" duration-ms="10095" started-at="2019-02-10T06:19:57Z" finished-at="2019-02-10T06:20:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:testng.example.Framework2Test@6093dd95]" name="loginTest" duration-ms="5712" started-at="2019-02-10T06:20:08Z" finished-at="2019-02-10T06:20:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testng.example.Framework2Test@6093dd95]" name="afterMethod" is-config="true" duration-ms="13" started-at="2019-02-10T06:20:13Z" finished-at="2019-02-10T06:20:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testng.example.Framework2Test@6093dd95]" name="afterTest" is-config="true" duration-ms="2745" started-at="2019-02-10T06:20:13Z" finished-at="2019-02-10T06:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testng.example.Framework2Test -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

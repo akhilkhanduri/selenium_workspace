@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Annotaion" parallel="false">
+  <test name="Annotaion Test Example">
+    <classes>
+      <class name="openqa.testng.example.AnnotationExample"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

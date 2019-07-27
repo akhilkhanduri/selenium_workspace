@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 128.493 sec <<< FAILURE!
+afterMethod(testng.example.Framework3Test)  Time elapsed: 6.592 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Facebook] but found [Facebook – log in or sign up]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at testng.example.Framework3Test.afterMethod(Framework3Test.java:29)
+

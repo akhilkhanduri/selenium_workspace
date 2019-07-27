@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\rishabh\Desktop\Selenium Class\Workspace\PageObjectModelExample"/>
+			<item value="C:\Users\rishabh\Desktop\Selenium Class\Workspace\Keydriven framework"/>
+			<item value="C:\Users\rishabh\Desktop\Selenium Class\Workspace\Data Driven Framework"/>
+			<item value="C:\Users\rishabh\Desktop\Selenium Class\Workspace\log4j_demo"/>
+			<item value="C:\Users\rishabh\Desktop\Selenium Class\Workspace\Handle Cookies"/>
+			<item value="C:\Users\rishabh\Desktop\Selenium Class\Workspace\Screenshot_Example"/>
+			<item value="C:\Users\rishabh\Desktop\Selenium Class\Workspace\Sreenshot"/>
+			<item value="C:\Users\rishabh\Desktop\Selenium Class\Workspace\Read and White Excel_New"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

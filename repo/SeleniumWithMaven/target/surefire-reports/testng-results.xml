@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="openqa.selenium.with.testng.TestSeleniumWithTestNG" duration-ms="51554" started-at="2019-01-23T11:51:41 IST" finished-at="2019-01-23T11:52:33 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="51554" started-at="2019-01-23T11:51:41 IST" finished-at="2019-01-23T11:52:33 IST">
+      <class name="openqa.selenium.with.testng.TestSeleniumWithTestNG">
+        <test-method status="PASS" signature="BrowserInvoke()[pri:0, instance:openqa.selenium.with.testng.TestSeleniumWithTestNG@6d8a00e3]" name="BrowserInvoke" is-config="true" duration-ms="30343" started-at="2019-01-23T11:51:41 IST" finished-at="2019-01-23T11:52:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserInvoke -->
+        <test-method status="PASS" signature="PercentageCalculator()[pri:0, instance:openqa.selenium.with.testng.TestSeleniumWithTestNG@6d8a00e3]" name="PercentageCalculator" duration-ms="15523" started-at="2019-01-23T11:52:12 IST" finished-at="2019-01-23T11:52:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PercentageCalculator -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:openqa.selenium.with.testng.TestSeleniumWithTestNG@6d8a00e3]" name="TearDown" is-config="true" duration-ms="5585" started-at="2019-01-23T11:52:27 IST" finished-at="2019-01-23T11:52:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- openqa.selenium.with.testng.TestSeleniumWithTestNG -->
+    </test> <!-- Command line test -->
+  </suite> <!-- openqa.selenium.with.testng.TestSeleniumWithTestNG -->
+</testng-results>

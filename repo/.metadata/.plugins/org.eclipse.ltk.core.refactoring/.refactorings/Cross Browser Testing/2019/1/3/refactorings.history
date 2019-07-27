@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;crossbrowser.xml&apos; to &apos;Cross Browser Testing/src/cross.browser.testing&apos;&#x0D;&#x0A;- Original project: &apos;Cross Browser Testing&apos;&#x0D;&#x0A;- Destination element: &apos;Cross Browser Testing/src/cross.browser.testing&apos;&#x0D;&#x0A;- Original element: &apos;crossbrowser.xml&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="/src&lt;cross.browser.testing" element1="crossbrowser.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1547621279022" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="104854" started-at="2019-02-12T07:18:59Z" finished-at="2019-02-12T07:20:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="104854" started-at="2019-02-12T07:18:59Z" finished-at="2019-02-12T07:20:44Z">
+      <class name="listner.example.SeleniumWithTestNG">
+        <test-method status="PASS" signature="BrowserInvoke()[pri:0, instance:listner.example.SeleniumWithTestNG@2a2d45ba]" name="BrowserInvoke" is-config="true" duration-ms="82488" started-at="2019-02-12T07:18:59Z" finished-at="2019-02-12T07:20:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserInvoke -->
+        <test-method status="PASS" signature="PercentageCalculator()[pri:0, instance:listner.example.SeleniumWithTestNG@2a2d45ba]" name="PercentageCalculator" duration-ms="17018" started-at="2019-02-12T07:20:22Z" finished-at="2019-02-12T07:20:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PercentageCalculator -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:listner.example.SeleniumWithTestNG@2a2d45ba]" name="TearDown" is-config="true" duration-ms="5241" started-at="2019-02-12T07:20:39Z" finished-at="2019-02-12T07:20:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- listner.example.SeleniumWithTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="92127" started-at="2019-02-05T11:19:43Z" finished-at="2019-02-05T11:21:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="92127" started-at="2019-02-05T11:19:43Z" finished-at="2019-02-05T11:21:15Z">
+      <class name="dataprovider.example.with.dataprovider.example.with.testing.DataProviderExample">
+        <test-method status="PASS" signature="EnvironmentSetup()[pri:0, instance:dataprovider.example.with.dataprovider.example.with.testing.DataProviderExample@2a5ca609]" name="EnvironmentSetup" is-config="true" duration-ms="33407" started-at="2019-02-05T11:19:43Z" finished-at="2019-02-05T11:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnvironmentSetup -->
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:dataprovider.example.with.dataprovider.example.with.testing.DataProviderExample@2a5ca609]" name="OpenBrowser" is-config="true" duration-ms="19979" started-at="2019-02-05T11:20:17Z" finished-at="2019-02-05T11:20:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.example.with.dataprovider.example.with.testing.DataProviderExample@2a5ca609]" name="LoginTest" duration-ms="9159" started-at="2019-02-05T11:20:36Z" data-provider="Authentic" finished-at="2019-02-05T11:20:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="Verification()[pri:0, instance:dataprovider.example.with.dataprovider.example.with.testing.DataProviderExample@2a5ca609]" name="Verification" is-config="true" duration-ms="4" started-at="2019-02-05T11:20:46Z" finished-at="2019-02-05T11:20:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verification -->
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:dataprovider.example.with.dataprovider.example.with.testing.DataProviderExample@2a5ca609]" name="OpenBrowser" is-config="true" duration-ms="2699" started-at="2019-02-05T11:20:46Z" finished-at="2019-02-05T11:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.example.with.dataprovider.example.with.testing.DataProviderExample@2a5ca609]" name="LoginTest" duration-ms="5631" started-at="2019-02-05T11:20:48Z" data-provider="Authentic" finished-at="2019-02-05T11:20:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="Verification()[pri:0, instance:dataprovider.example.with.dataprovider.example.with.testing.DataProviderExample@2a5ca609]" name="Verification" is-config="true" duration-ms="1" started-at="2019-02-05T11:20:54Z" finished-at="2019-02-05T11:20:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verification -->
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:dataprovider.example.with.dataprovider.example.with.testing.DataProviderExample@2a5ca609]" name="OpenBrowser" is-config="true" duration-ms="2342" started-at="2019-02-05T11:20:54Z" finished-at="2019-02-05T11:20:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.example.with.dataprovider.example.with.testing.DataProviderExample@2a5ca609]" name="LoginTest" duration-ms="5701" started-at="2019-02-05T11:20:56Z" data-provider="Authentic" finished-at="2019-02-05T11:21:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="Verification()[pri:0, instance:dataprovider.example.with.dataprovider.example.with.testing.DataProviderExample@2a5ca609]" name="Verification" is-config="true" duration-ms="0" started-at="2019-02-05T11:21:02Z" finished-at="2019-02-05T11:21:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verification -->
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:dataprovider.example.with.dataprovider.example.with.testing.DataProviderExample@2a5ca609]" name="OpenBrowser" is-config="true" duration-ms="2348" started-at="2019-02-05T11:21:02Z" finished-at="2019-02-05T11:21:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.example.with.dataprovider.example.with.testing.DataProviderExample@2a5ca609]" name="LoginTest" duration-ms="5711" started-at="2019-02-05T11:21:04Z" data-provider="Authentic" finished-at="2019-02-05T11:21:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="Verification()[pri:0, instance:dataprovider.example.with.dataprovider.example.with.testing.DataProviderExample@2a5ca609]" name="Verification" is-config="true" duration-ms="1" started-at="2019-02-05T11:21:10Z" finished-at="2019-02-05T11:21:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verification -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:dataprovider.example.with.dataprovider.example.with.testing.DataProviderExample@2a5ca609]" name="TearDown" is-config="true" duration-ms="5073" started-at="2019-02-05T11:21:10Z" finished-at="2019-02-05T11:21:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- dataprovider.example.with.dataprovider.example.with.testing.DataProviderExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

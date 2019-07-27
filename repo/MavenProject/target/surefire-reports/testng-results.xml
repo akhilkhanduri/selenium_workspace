@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.execution.GoogleTest" duration-ms="463" started-at="2019-02-24T11:26:40Z" finished-at="2019-02-24T11:26:41Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="463" started-at="2019-02-24T11:26:40Z" finished-at="2019-02-24T11:26:41Z">
+      <class name="com.execution.GoogleTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.execution.GoogleTest@2812cbfa]" name="beforeSuite" is-config="true" duration-ms="510" started-at="2019-02-24T11:26:40Z" finished-at="2019-02-24T11:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.execution.GoogleTest@2812cbfa]" name="beforeTest" is-config="true" duration-ms="1" started-at="2019-02-24T11:26:40Z" finished-at="2019-02-24T11:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.execution.GoogleTest@2812cbfa]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-02-24T11:26:41Z" finished-at="2019-02-24T11:26:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.execution.GoogleTest@2812cbfa]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-02-24T11:26:41Z" finished-at="2019-02-24T11:26:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.execution.GoogleTest@2812cbfa]" name="f" duration-ms="1" started-at="2019-02-24T11:26:41Z" finished-at="2019-02-24T11:26:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.execution.GoogleTest@2812cbfa]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-02-24T11:26:41Z" finished-at="2019-02-24T11:26:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.execution.GoogleTest@2812cbfa]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-02-24T11:26:41Z" finished-at="2019-02-24T11:26:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.execution.GoogleTest@2812cbfa]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-02-24T11:26:41Z" finished-at="2019-02-24T11:26:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.execution.GoogleTest@2812cbfa]" name="afterSuite" is-config="true" duration-ms="1" started-at="2019-02-24T11:26:46Z" finished-at="2019-02-24T11:26:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.execution.GoogleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.execution.GoogleTest -->
+</testng-results>
