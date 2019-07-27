@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Cross Browser">
+  <test thread-count="5" name="Cross Browser Testing -1">
+  <parameter name = "browser" value="Firefox"/>
+  <classes>
+      <class name="cross.browser.testing.CrossBrowserTesting"/>
+    </classes>
+  </test> <!-- Cross Browser Testing -->
+  
+  <test thread-count="5" name="Cross Browser Testing -2">
+  <parameter name = "browser" value="Chrome"/>
+  <classes>
+      <class name="cross.browser.testing.CrossBrowserTesting"/>
+    </classes>
+  </test> <!-- Cross Browser Testing -->
+  
+  <test thread-count="5" name="Cross Browser Testing -3">
+  <parameter name = "browser" value="IE"/>
+  <classes>
+      <class name="cross.browser.testing.CrossBrowserTesting"/>
+    </classes>
+  </test> <!-- Cross Browser Testing -->
+  
+  <test thread-count="5" name="Cross Browser Testing -4">
+  <parameter name = "browser" value="Edge"/>
+  <classes>
+      <class name="cross.browser.testing.CrossBrowserTesting"/>
+    </classes>
+  </test> <!-- Cross Browser Testing -->
+</suite> <!-- Cross Browser -->
